@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **LangChain**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kunal1223.vercel.app/](https://portfolio-kunal1223.vercel.app/)
 
